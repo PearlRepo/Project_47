@@ -259,9 +259,9 @@ function handlePlayerControl() {
     boat.position.x += 5;
   }
 
-  if (keyIsDown(DOWN_ARROW)) {
-    boat.position.y += 20;
-  }
+//  if (keyIsDown(DOWN_ARROW)) {
+//    boat.position.y += 20;
+//  }
 }
 
 function energyBar(){
@@ -382,7 +382,7 @@ function lives(){
     swal({
       title: "Awesome!",
       text:"You have reached the finish line sucessfully." + "\n"+ "You collected "+ score+ " pieces of garbage.",
-      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fTuZpCvdQrOqKYiUQflY-5kcA9XKB_fGdg&usqp=CAU",
+      imageUrl: "https://www.pngitem.com/pimgs/m/117-1173837_racing-clipart-png-transparent-images-finish-line-flag.png",
       imageSize: "300x300",
       confirmButtonText: "Play Again"
       },
