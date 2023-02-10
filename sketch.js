@@ -382,7 +382,7 @@ function lives(){
     swal({
       title: "Awesome!",
       text:"You have reached the finish line sucessfully." + "\n"+ "You collected "+ score+ " pieces of garbage.",
-      imageUrl: "http://clipart-library.com/img/1022808.jpg",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fTuZpCvdQrOqKYiUQflY-5kcA9XKB_fGdg&usqp=CAU",
       imageSize: "300x300",
       confirmButtonText: "Play Again"
       },
