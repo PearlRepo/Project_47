@@ -21,7 +21,7 @@ var start= false;
 var life= 3;
 var lifeD1, lifeD2, lifeD3;
 var lifeimg, nolife;
-var waitS, playS, crash, move, bagS, bottleS, winS, winM;
+var waitS, playS, crash, move, bagS, bottleS, winS, winM, over;
 var failureType=0;
 
 
