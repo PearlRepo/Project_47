@@ -47,7 +47,7 @@ function preload() {
   bagS= loadSound("./assets/bag.mp3");
   bottleS= loadSound("./assets/bottle.mp3");
   winS= loadSound("./assets/win.mp3");
-  winM= loadSound("./assets/winBg.mp3");
+  winM= loadSound("./assets/winbg.mp3");
   over= loadSound("./assets/over.mp3");
 }
 
